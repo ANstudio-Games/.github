@@ -12,6 +12,7 @@ We build our games from the ground up — from gameplay systems and programming 
 | ------------------ | ----------------- | -------------- |
 | **Jungle Rush**    | 2D Endless Runner | Release        |  
 | **Plane Shooter**  | 2D Endless Runner | Release        |
+| **Winterbloom**    | 2D RPG            | In Development |
 | **Tower Defense**  | 3D Defense        | In Development |
 | **Castia**         | 2D RPG            | In Development |
 
