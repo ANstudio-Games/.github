@@ -60,6 +60,4 @@ Itc Io: https://anstudiogames.itch.io/
 
 PlayStore: Coming Soon
 
-Games: Coming soon
-
 Contact: Coming soon
